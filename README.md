@@ -21,6 +21,6 @@ The data used can be found in [data](data/) folder
 
 ### Output
 
-The output is stored in csv files corresponding to each model and can be found in the [output](output/) directory.
+The output of the run done on gold_BUG dataset is stored in csv files corresponding to each model and can be found in the [output](output/) directory.
 
 ---
