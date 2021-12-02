@@ -1,1 +1,1 @@
-# Gender_Bias_Coref_CMPUT_622
+# Measuring Gender Bias in Coreference Resolution Systems
