@@ -6,8 +6,8 @@
 |Natalie Hervieux  |  nhervieu  |
 
 ---
-# 2. Execution Instructions
-## Run
+## Execution Instructions
+### Run
 
 Use the google colab notebooks provided in src folder to run the two models:
 
@@ -15,11 +15,11 @@ Use the google colab notebooks provided in src folder to run the two models:
 
 2. Neural Coref model - provided by Huggingface and based on the work of [https://aclanthology.org/D16-1245.pdf](Kevin Clark and Christopher D. Manning. 2016. Deep reinforcement learning for mention-ranking coreference models. In Empirical Methods on Natural Language Processing.)
 
-## Data
+### Data
 
 The data used can be found in [data/](data/) folder
 
-## Output
+### Output
 
 The output is stored in csv files corresponding to each model and can be found in the output directory.
 
