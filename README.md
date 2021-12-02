@@ -11,7 +11,7 @@
 
 Use the google colab notebooks provided in src folder to run the two models:
 
-1. E2E model - provided by Allen NLP and based on the work of [Lee, Kenton & He, Luheng & Lewis, Mike & Zettlemoyer, Luke. (2017). End-to-end Neural Coreference Resolution.] (https://arxiv.org/pdf/1707.07045.pdf). 
+1. E2E model - provided by Allen NLP and based on the work of [Lee, Kenton & He, Luheng & Lewis, Mike & Zettlemoyer, Luke. 2017. End-to-end Neural Coreference Resolution.] (https://arxiv.org/pdf/1707.07045.pdf). 
 
 2. Neural Coref model - provided by Huggingface and based on the work of  [Kevin Clark and Christopher D. Manning. 2016. Deep reinforcement learning for mention-ranking coreference models. In Empirical Methods on Natural Language Processing.](https://aclanthology.org/D16-1245.pdf)
 
