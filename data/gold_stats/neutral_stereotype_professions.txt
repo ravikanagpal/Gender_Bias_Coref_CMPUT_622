@@ -1,0 +1,6 @@
+attendant
+friend
+hunter
+patient
+postmaster
+user
