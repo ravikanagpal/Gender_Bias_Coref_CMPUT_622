@@ -9,7 +9,7 @@
 ## Execution Instructions
 ### Run
 
-Use the google colab notebooks provided in src folder to run the two models:
+Use the google colab notebooks provided in [src](src/) folder to run the two models:
 
 1. E2E model - provided by Allen NLP and based on the work of [Lee, Kenton & He, Luheng & Lewis, Mike & Zettlemoyer, Luke. 2017. End-to-end Neural Coreference Resolution.](https://arxiv.org/pdf/1707.07045.pdf)
 
@@ -17,7 +17,9 @@ Use the google colab notebooks provided in src folder to run the two models:
 
 ### Data
 
-The data used can be found in [data](data/) folder
+The data used can be found in [data](data/) folder. The csv files are taken from the [github](https://github.com/SLAB-NLP/BUG) repo of the paper [Levy, Shahar & Lazar, Koren & Stanovsky, abriel. (2021). Collecting a Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation. ](https://arxiv.org/pdf/2109.03858.pdf)
+
+Apart from the csv files, the d
 
 ### Output
 
