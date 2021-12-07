@@ -19,7 +19,7 @@ Use the google colab notebooks provided in [src](src/) folder to run the two mod
 
 The data used can be found in [data](data/) folder. The csv files are taken from the [github](https://github.com/SLAB-NLP/BUG) repo of the paper [Levy, Shahar & Lazar, Koren & Stanovsky, abriel. (2021). Collecting a Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation. ](https://arxiv.org/pdf/2109.03858.pdf)
 
-Apart from the csv files, the data folder contains folder [goldstats](data/goldstats) which contain files showing our analysis on the BUG dataset which is also reported in the report.
+Apart from the csv files, the data folder contains folder [gold_stats](data/gold_stats) which contain files showing our analysis on the BUG dataset which is also reported in the report.
 
 ### Output
 
